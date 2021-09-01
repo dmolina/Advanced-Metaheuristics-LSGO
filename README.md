@@ -1,6 +1,6 @@
 # Advanced-Metaheuristics-LSGO
 
-This repo contains my Computer Engineering Degree's Final Project, studied at the University of Granada, Spain. The main focus is to apply advanced metaheuristic algorithms into a **Big Optimization** problem with thousands of variables.
+This repo contains a Computer Engineering Degree's Final Project, studied at the University of Granada, Spain. The main focus is to apply advanced metaheuristic algorithms into a **Big Optimization** problem with thousands of variables.
 Our task is to find out how accurate are theoretical benchmark results compared to real EEG (Electroencephalography) data. 
 
 This research is directed by Ph.D. Daniel Molina Cabrera.
@@ -9,10 +9,10 @@ The set of algorithms that will be compared are belong to a category known as La
 
 Source code of each proposal has been obtained through either the director of this research or personal repositories of the authors.
 
-### 1. MOS-SOCO2011
+### 1. MOS-SOCO2011 (not available)
 Multiple Offspring Sampling hybrid-based algorithm that combines a Differential Evolution Algorithm (DE) with a powerful Local Search (LS), the MTS-LS1. This algorithm was proposed for the SOCO 2011. See the following paper for further information: LaTorre, A., Muelas, S., Peña, J.-M. A MOS-based dynamic memetic differential evolution algorithm for continuous optimization: A scalability test (2011) Soft Computing, 15 (11), pp. 2187-2199
 
-### 2. MOS-CEC2013
+### 2. MOS-CEC2013 (not available)
 Enhanced version of the original MOS proposal, where a Classic Genetic Algorithm is combined along with a Solis Wets algorithm and a specifically designed Local Search for this proposal, the MTS-LS1-Reduced. This memetic algorithm has been considered since 2013 as the *state-of-the-art* algorithm within LSGO area. Paper of the proposal:
 Latorre, A., Muelas, S., Pena, J.-M. Large scale global optimization: Experimental results with MOS-based hybrid algorithms
 (2013) 2013 IEEE Congress on Evolutionary Computation, CEC 2013, art. no. 6557901, pp. 2742-2749
